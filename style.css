@@ -1,0 +1,153 @@
+body {
+    padding:0;
+    margin:0;
+}
+
+.container-fluid {
+    padding:4% 20%;
+}
+
+a {
+    color:black;
+    
+}
+a:hover {
+    text-decoration: none;
+    color:#d35d6e;
+}
+
+
+
+/*HEADING*/
+
+#heading {
+    text-align: center;
+    background-color: #bedbbb;
+    color: #d35d6e;
+    opacity:90%;
+    
+    
+}
+
+
+#heading h1 {
+    letter-spacing: 1rem;
+    font-family: 'Hachi Maru Pop', cursive;
+    line-height: 2;
+
+}
+
+#heading h2 {
+    color:white;
+    font-family: 'Hachi Maru Pop', cursive;
+}
+
+.heading-icon {
+
+    width:5%;
+    position:absolute;
+    left: 5%;
+    top:2%;
+}
+
+/*SUMMARY*/
+
+.menu {
+    text-align: center;
+    background-color:#d35d6e;
+    padding:4%;
+    color:white; 
+}
+
+
+#summary {
+    text-align: justify;
+    background-color: #f8f1f1;
+    width:15%;
+    margin:2%;
+    position:relative;
+    float:left;
+    top:31px;
+    line-height: 2;
+    border: solid 1px black;
+  
+}
+
+
+/*SUBJECT*/
+
+#subject {
+    text-align: center;
+    
+}
+
+.date {
+    
+    text-align: left;
+    padding:2% 10%;
+    color:white;
+    background-color: #d35d6e;
+}
+
+.title {
+    padding:4% 0;
+    background-color: #f8f1f1;
+    color:black;
+    border: solid 0.3px black;
+    
+}
+
+#subject h1 {
+    font-size:5rem;
+    letter-spacing: 0.2rem;
+}
+
+.subject-img {
+    position:absolute;
+    width:12%;
+    right:12%;
+    top:15%;
+    
+}
+
+.content {
+    text-align: center;
+    margin-top:6%;
+    padding:4%;
+    line-height: 2;
+    border:dotted 1px black;
+}
+
+.modo {
+    
+    margin-top:4%;
+}
+
+.modo h2 {
+    
+    background-color: #bedbbb;
+    padding:2%;
+    margin:0;
+}
+
+.modo p {
+    background-color:#f8f1f1;
+    padding:2%;
+}
+
+.modo-video {
+    margin-top:8%;
+    padding:2%;
+    background-color: #f8f1f1;
+}
+
+.video {
+   padding-top:4%;
+   width:640px;
+   height:380px;
+   text-align: center;
+   
+  
+
+}
+
